@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/saveicon.png</file>
+        <file>images/close.png</file>
+        <file>images/open.jpeg</file>
+        <file>images/redo.jpeg</file>
+        <file>images/undo.jpeg</file>
+        <file>images/paste.jpeg</file>
+        <file>images/copy.jpg</file>
+        <file>images/qt.png</file>
+        <file>images/about.png</file>
+        <file>images/print.jpeg</file>
+        <file>images/font.png</file>
+        <file>images/paint.png</file>
+        <file>images/cut.png</file>
+    </qresource>
+</RCC>
